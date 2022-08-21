@@ -12,7 +12,12 @@ Script made by ss.spooky.ss#0003 (open for dm's)
 
 This script is in a BETA Version, please, if you find any glitch DM me
 
-* Script
+# Images
+
+![image](https://user-images.githubusercontent.com/81113363/185801465-c759ae93-4cea-4ea1-b72e-06eef4c1d4fd.png)
+
+
+# Script
 
 ```
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/spookysss/FPS-Menu-v1.0/main/script.lua')))()
