@@ -15,6 +15,7 @@ This script is in a BETA Version, please, if you find any glitch DM me
 # Images
 
 ![image](https://user-images.githubusercontent.com/81113363/185801465-c759ae93-4cea-4ea1-b72e-06eef4c1d4fd.png)
+![image](https://user-images.githubusercontent.com/81113363/185801971-18e373da-66ad-4fdc-8c86-ecad4c56072c.png)
 
 
 # Script
