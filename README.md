@@ -12,3 +12,7 @@ Script made by ss.spooky.ss#0003 (open for dm's)
 
 This script is in a BETA Version, please, if you find any glitch DM me
 
+* Script
+
+```
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/spookysss/DoorsNoJS/main/script.lua')))()```
